@@ -45,14 +45,17 @@ Halaman Pengisian Surat Rekomendasi Perizinan
 ![screencapture-localhost-lampiran-2021-02-10-17_29_46](https://user-images.githubusercontent.com/33409476/107497860-a66fb480-6bc5-11eb-8042-dcafaa8b1842.jpg)
 
 
+Status Pengajuan Surat Rekomendasi Perizinan
+![Capture](https://user-images.githubusercontent.com/33409476/107498261-23029300-6bc6-11eb-9a37-abf986ea585e.JPG)
+
+
+
+Halaman Admin/Sekretaris
 ![screencapture-localhost-lampiran-admin-index-php-2021-02-10-16_47_48](https://user-images.githubusercontent.com/33409476/107493061-c308ee00-6bbf-11eb-9033-75b9102db811.jpg)
 
 
 
-![screencapture-localhost-lampiran-2021-02-10-16_51_00](https://user-images.githubusercontent.com/33409476/107493453-327edd80-6bc0-11eb-9dc2-ee407e3f8c75.jpg)
-
-
-
+Halaman Data Pengajuan Rekomendasi Perizinan
 ![screencapture-localhost-lampiran-admin-index-php-2021-02-10-16_51_59](https://user-images.githubusercontent.com/33409476/107493551-5510f680-6bc0-11eb-811c-13b5dc97a86f.jpg)
 
 
