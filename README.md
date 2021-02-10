@@ -33,20 +33,9 @@ Halaman Utama
 ![screencapture-localhost-lampiran-2021-02-10-16_44_12](https://user-images.githubusercontent.com/33409476/107492622-4249f200-6bbf-11eb-8f2b-d124120c0d34.jpg)
 
 
-Halaman Profil Kelurahan
-![screencapture-localhost-lampiran-index-php-2021-02-10-16_44_47](https://user-images.githubusercontent.com/33409476/107492687-52fa6800-6bbf-11eb-88a8-ebb0095d40df.jpg)
-
-
-
-Halaman Pengaduan
-![screencapture-localhost-lampiran-index-php-2021-02-10-16_45_47](https://user-images.githubusercontent.com/33409476/107492826-732a2700-6bbf-11eb-94f0-e4b6ae7d5ea0.jpg)
 
 Halaman Pengisian Surat Rekomendasi Perizinan
 ![screencapture-localhost-lampiran-2021-02-10-17_29_46](https://user-images.githubusercontent.com/33409476/107497860-a66fb480-6bc5-11eb-8042-dcafaa8b1842.jpg)
-
-
-Status Pengajuan Surat Rekomendasi Perizinan
-![Capture](https://user-images.githubusercontent.com/33409476/107498261-23029300-6bc6-11eb-9a37-abf986ea585e.JPG)
 
 
 
@@ -58,21 +47,17 @@ Halaman Admin/Sekretaris
 Halaman Data Pengajuan Rekomendasi Perizinan
 ![screencapture-localhost-lampiran-admin-index-php-2021-02-10-16_51_59](https://user-images.githubusercontent.com/33409476/107493551-5510f680-6bc0-11eb-811c-13b5dc97a86f.jpg)
 
+Halaman Lihat Detail Surat
 
-
-![screencapture-localhost-lampiran-admin-index-php-2021-02-10-16_49_34](https://user-images.githubusercontent.com/33409476/107493263-fe0b2180-6bbf-11eb-8ae6-fae8d2b208a7.jpg)
-
-
-
-
-
-
-
-
-![screencapture-localhost-lampiran-admin-index-php-2021-02-10-16_51_59](https://user-images.githubusercontent.com/33409476/107495383-986c6480-6bc2-11eb-83f4-94761a504d15.jpg)
 
 
 ![screencapture-localhost-lampiran-admin-index-php-2021-02-10-16_49_34](https://user-images.githubusercontent.com/33409476/107495377-96a2a100-6bc2-11eb-8b55-318f9461297c.jpg)
+
+
+Status Pengajuan Surat Rekomendasi Perizinan
+![Capture](https://user-images.githubusercontent.com/33409476/107498261-23029300-6bc6-11eb-9a37-abf986ea585e.JPG)
+
+
 
 
 
@@ -94,6 +79,13 @@ Cetak Surat
 ![1212](https://user-images.githubusercontent.com/33409476/107495315-85f22b00-6bc2-11eb-8bb3-08ad14c58621.JPG)
 
 
+Halaman Profil Kelurahan
+![screencapture-localhost-lampiran-index-php-2021-02-10-16_44_47](https://user-images.githubusercontent.com/33409476/107492687-52fa6800-6bbf-11eb-88a8-ebb0095d40df.jpg)
+
+
+
+Halaman Pengaduan
+![screencapture-localhost-lampiran-index-php-2021-02-10-16_45_47](https://user-images.githubusercontent.com/33409476/107492826-732a2700-6bbf-11eb-94f0-e4b6ae7d5ea0.jpg)
 
 
 
