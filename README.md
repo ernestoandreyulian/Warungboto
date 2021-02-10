@@ -25,17 +25,24 @@
  
 
 
- 
+ Halaman Login
 ![screencapture-localhost-lampiran-login-php-2021-02-10-16_46_24](https://user-images.githubusercontent.com/33409476/107492910-8c32d800-6bbf-11eb-8f7e-d40550b56d1b.jpg)
 
 
- 
+Halaman Utama 
 ![screencapture-localhost-lampiran-2021-02-10-16_44_12](https://user-images.githubusercontent.com/33409476/107492622-4249f200-6bbf-11eb-8f2b-d124120c0d34.jpg)
 
 
-
+Halaman Profil Kelurahan
 ![screencapture-localhost-lampiran-index-php-2021-02-10-16_44_47](https://user-images.githubusercontent.com/33409476/107492687-52fa6800-6bbf-11eb-88a8-ebb0095d40df.jpg)
 
+
+
+Halaman Pengaduan
+![screencapture-localhost-lampiran-index-php-2021-02-10-16_45_47](https://user-images.githubusercontent.com/33409476/107492826-732a2700-6bbf-11eb-94f0-e4b6ae7d5ea0.jpg)
+
+Halaman Pengisian Surat Rekomendasi Perizinan
+![screencapture-localhost-lampiran-2021-02-10-17_29_46](https://user-images.githubusercontent.com/33409476/107497860-a66fb480-6bc5-11eb-8042-dcafaa8b1842.jpg)
 
 
 ![screencapture-localhost-lampiran-admin-index-php-2021-02-10-16_47_48](https://user-images.githubusercontent.com/33409476/107493061-c308ee00-6bbf-11eb-9033-75b9102db811.jpg)
@@ -51,11 +58,6 @@
 
 
 ![screencapture-localhost-lampiran-admin-index-php-2021-02-10-16_49_34](https://user-images.githubusercontent.com/33409476/107493263-fe0b2180-6bbf-11eb-8ae6-fae8d2b208a7.jpg)
-
-
-
-
-![screencapture-localhost-lampiran-index-php-2021-02-10-16_45_47](https://user-images.githubusercontent.com/33409476/107492826-732a2700-6bbf-11eb-94f0-e4b6ae7d5ea0.jpg)
 
 
 
