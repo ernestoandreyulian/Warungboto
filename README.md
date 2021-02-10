@@ -64,9 +64,6 @@ Halaman Data Pengajuan Rekomendasi Perizinan
 
 
 
-![1212](https://user-images.githubusercontent.com/33409476/107495315-85f22b00-6bc2-11eb-8bb3-08ad14c58621.JPG)
-
-
 
 
 
@@ -77,15 +74,25 @@ Halaman Data Pengajuan Rekomendasi Perizinan
 
 ![screencapture-localhost-lampiran-admin-index-php-2021-02-10-16_49_34](https://user-images.githubusercontent.com/33409476/107495377-96a2a100-6bc2-11eb-8b55-318f9461297c.jpg)
 
+
+
+Data Pengajuan Surat pada Lurah
+![screencapture-localhost-lampiran-admin-index-php-2021-02-10-16_55_47](https://user-images.githubusercontent.com/33409476/107495386-999d9180-6bc2-11eb-90d1-b411625f5ba6.jpg)
+
+
+
+
+
+Status Pengajuan Surat Selesai
 ![asdasd](https://user-images.githubusercontent.com/33409476/107495325-87bbee80-6bc2-11eb-8fac-73841d86ee5a.JPG)
 
 
 
 
-![screencapture-localhost-lampiran-admin-index-php-2021-02-10-16_55_47](https://user-images.githubusercontent.com/33409476/107495386-999d9180-6bc2-11eb-90d1-b411625f5ba6.jpg)
 
+Cetak Surat
+![1212](https://user-images.githubusercontent.com/33409476/107495315-85f22b00-6bc2-11eb-8bb3-08ad14c58621.JPG)
 
-![Capture](https://user-images.githubusercontent.com/33409476/107495329-88548500-6bc2-11eb-90ff-217409a78f09.JPG)
 
 
 
